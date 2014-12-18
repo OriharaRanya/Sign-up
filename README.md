@@ -1,3 +1,2 @@
-
-  if(boolean bool == true)
-    printf("Yoooooooo")
+Fuck you!!!!!!!!!!!!!!
+喔齁
